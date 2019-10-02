@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ColorArrayList {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 
 		ArrayList<String> colors = new ArrayList<>();
 		colors.add("White");
